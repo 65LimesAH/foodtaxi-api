@@ -1,0 +1,5 @@
+Django~=3.1.2
+Psycopg2-binary~=2.8.6
+pytest-django~=3.10.0
+djangorestframework~=3.12.1
+djoser~=2.0.5
